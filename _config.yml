@@ -1,6 +1,6 @@
 # Jekyll Defaults
-title: Little Big Blue
-description: A small and simple site I made to test out Jekyll.
+title: Hello World
+description: Still getting aqainted with Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "cubesnail.me"
