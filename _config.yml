@@ -1,9 +1,9 @@
 # Jekyll Defaults
 title: Little Big Blue
 description: A small and simple site I made to test out Jekyll.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "cubesnail.me"
+url: "cubesnail.github.io"
 github: http://github.com/cubesnail
 
 markdown: redcarpet
