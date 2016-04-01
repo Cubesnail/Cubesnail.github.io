@@ -3,7 +3,7 @@ title: Little Big Blue
 description: A small and simple site I made to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "cubesnail.github.io"
+url: "cubesnail.me"
 github: http://github.com/cubesnail
 
 markdown: redcarpet
